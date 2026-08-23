@@ -16,19 +16,43 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na Estácio e estou cons
   <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python"/>
 </p>
 <p align="left">
-
-<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" title="Linux"/>
-
-<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git"/>
-
-<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" title="GitHub"/>
-
-<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python"/>
-
+  <a href="https://github.com/arthurcosta">
+    <img src="https://img.shields.io/github/followers/arthurcosta?style=for-the-badge&logo=github&label=Seguidores" />
+  </a>
+  <img src="https://img.shields.io/badge/ADS-Em%20forma%C3%A7%C3%A3o-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cybersecurity-Estudando-red?style=for-the-badge" />
 </p>
 
 ```text
-
+                    CYBERSECURITY
+                          │
+          ┌───────────────┼───────────────┐
+          │               │               │
+        Linux            Redes          Python
+          │               │               │
+          └───────────────┼───────────────┘
+                          │
+                    Fundamentos
+                          │
+              ┌───────────┴───────────┐
+              │                       │
+        Network Security         Web Security
+              │                       │
+              └───────────┬───────────┘
+                          │
+                    Ethical Hacking
+                          │
+              ┌───────────┴───────────┐
+              │                       │
+           Pentest                  Blue Team
+              │                       │
+              └───────────┬───────────┘
+                          │
+                    SOC / SIEM
+                          │
+                    Cloud Security
+                          │
+                 Digital Forensics
 ADS → Programação → Redes → Linux → Cybersecurity → Pentest → Especialização
 🟢 Em estudo
 ├── Linux
