@@ -2,6 +2,13 @@
 **`Estudante de Análise e Desenvolvimento de Sistemas | Foco em Cybersecurity`**
 Sou estudante de Análise e Desenvolvimento de Sistemas na Estácio e estou construindo minha base em tecnologia através de estudos práticos, projetos e laboratórios. Meu objetivo é me especializar em Cybersecurity, desenvolvendo conhecimentos sólidos em Linux, redes, programação, Git, segurança da informação, Pentest e segurança web. 🚀
 ### 🎯 Objetivo
+<p align="left">
+  <a href="https://github.com/arthurcosta">
+    <img src="https://img.shields.io/github/followers/arthurcosta?style=for-the-badge&logo=github&label=Seguidores" />
+  </a>
+  <img src="https://img.shields.io/badge/ADS-Em%20forma%C3%A7%C3%A3o-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cybersecurity-Estudando-red?style=for-the-badge" />
+</p>
 ```text
 ADS → Programação → Redes → Linux → Cybersecurity → Pentest → Especialização
 🟢 Em estudo
