@@ -1,28 +1,19 @@
 # 👨🏻‍💻 Arthur Costa
-
 **`Estudante de Análise e Desenvolvimento de Sistemas | Cybersecurity`**
-
 Olá! Me chamo Arthur Costa e atualmente estou cursando Análise e Desenvolvimento de Sistemas.
-
 Minha área de interesse e objetivo profissional é **Cybersecurity**. Estou construindo minha formação de maneira prática, estudando desde os fundamentos da computação e programação até redes, sistemas operacionais, segurança da informação e segurança cibernética.
-
 Este GitHub será meu laboratório de aprendizado e meu portfólio, onde vou documentar minha evolução, projetos, exercícios, laboratórios e conhecimentos adquiridos durante minha formação.
-
 Meu objetivo é construir uma base sólida em tecnologia e, ao longo da minha jornada, me especializar profissionalmente em **Cybersecurity**.
 
 ---
 
 ## 🎓 Formação
-
 ### Análise e Desenvolvimento de Sistemas — Estácio
-
-**Duração:** 2,5 anos  
+**Duração:** 3 anos  
 **Foco de carreira:** Cybersecurity
-
 A graduação fornece a base em desenvolvimento de sistemas, programação, banco de dados, redes, sistemas operacionais, engenharia de software, computação em nuvem e segurança da informação.
 
 ### 📚 Disciplinas da formação
-
 - 🖥️ Arquitetura de Computadores
 - 🌐 Fundamentos de Redes de Computadores
 - 💻 Introdução à Programação
@@ -90,29 +81,8 @@ A graduação fornece a base em desenvolvimento de sistemas, programação, banc
                     Cloud Security
                           │
                  Digital Forensics
-ADS → Programação → Redes → Linux → Cybersecurity → Pentest → Especialização
-🟢 Em estudo
-├── Linux
-├── Terminal
-├── Git
-├── GitHub
-└── Fundamentos de programação
-🟡 Em desenvolvimento
-├── Python
-├── Redes de computadores
-├── Sistemas operacionais
-├── Banco de dados
-└── Segurança da informação
-🔵 Próximos estudos
-├── Cybersecurity
-├── Segurança de redes
-├── Segurança Web
-├── Ethical Hacking
-├── Pentest
-├── Criptografia
-├── Análise de vulnerabilidades
-├── Forense digital
-└── Segurança de sistemas
+
+
 Linux        ██████████ 100%
 Git/GitHub   ██████████ 100%
 Redes        ███░░░░░░░  30%
