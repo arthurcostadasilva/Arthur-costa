@@ -73,5 +73,3 @@ Projetos de Software
 ---
 **"Não quero apenas aprender tecnologia. Quero entender como ela funciona."**
 ```
-
-Importante: no GitHub, esse código deve ser colocado no README.md do seu perfil. Se o seu usuário for exatamente arthurcosta, o repositório especial do perfil também deve se chamar arthurcosta.
