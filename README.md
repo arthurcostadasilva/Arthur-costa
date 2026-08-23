@@ -1,102 +1,77 @@
-# 👨🏻‍💻 Arthur Costa
-
-### `Estudante de ADS • Cybersecurity • Linux • Python`
-
 <p align="left">
-  <a href="https://github.com/arthurcosta">
-    <img src="https://img.shields.io/github/followers/arthurcosta?style=for-the-badge&logo=github&label=Seguidores" />
-  </a>
-  <img src="https://img.shields.io/badge/ADS-Em%20forma%C3%A7%C3%A3o-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Cybersecurity-Estudando-red?style=for-the-badge" />
+<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" title="Linux"/>
+<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git"/>
+<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" title="GitHub"/>
+<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python"/>
 </p>
-
-## 🧠 Sobre mim
-
+### 🎓 Formação
+**Análise e Desenvolvimento de Sistemas — Estácio**
 ```text
-Arthur Costa
-│
-├── 🎓 Análise e Desenvolvimento de Sistemas
-├── 🔐 Foco: Cybersecurity
-├── 🐧 Linux
-├── 🌐 Redes
-├── 🐍 Python
-├── 🐙 Git & GitHub
-└── 🧪 Laboratórios práticos
-
+Fundamentos de Computação
+Programação
+Lógica de Programação
+Engenharia de Software
+Banco de Dados
+Sistemas Operacionais
+Redes de Computadores
+Desenvolvimento de Sistemas
+Segurança da Informação
+Projetos de Software
+```
+### 🔐 Trilha de Cybersecurity
+```text
+01. Fundamentos de Computação
+02. Linux e Terminal
+03. Git e GitHub
+04. Lógica de Programação
+05. Python
+06. Redes de Computadores
+07. TCP/IP
+08. Sistemas Operacionais
+09. Segurança da Informação
+10. Criptografia
+11. Segurança Web
+12. Vulnerabilidades
+13. Ethical Hacking
+14. Pentest
+15. Análise de Logs
+16. Forense Digital
+17. Segurança de Redes
+18. Projetos e Laboratórios
+```
+### 🧪 Aprendizado na prática
+```text
+✔ Laboratórios
+✔ Projetos próprios
+✔ Exercícios práticos
+✔ Ambiente Linux
+✔ Git e controle de versão
+✔ Documentação dos estudos
+✔ Projetos para GitHub
+✔ Fundamentos de Cybersecurity
+```
+### 📚 Meu foco
+> **Aprender tecnologia na prática, construir projetos reais e transformar conhecimento em experiência.**
+### 📊 GitHub
 <p align="left">
-  <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" title="Linux"/>
-  <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git"/>
-  <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" title="GitHub"/>
-  <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=arthurcosta&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurcosta&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8"/>
 </p>
+### 📈 Evolução
+```text
+🟢 Em estudo
+🟡 Em desenvolvimento
+🔵 Próximos estudos
+🔴 Especialização futura
+```
+### 🌐 Conecte-se comigo
+<p align="left">
+<a href="https://github.com/arthurcosta">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+---
+**"Não quero apenas aprender tecnologia. Quero entender como ela funciona."**
+```
 
-> 🟢 Em estudo  
-> 🟡 Em desenvolvimento  
-> 🔵 Próximos estudos
-                    CYBERSECURITY
-                          │
-          ┌───────────────┼───────────────┐
-          │               │               │
-        Linux            Redes          Python
-          │               │               │
-          └───────────────┼───────────────┘
-                          │
-                    Fundamentos
-                          │
-              ┌───────────┴───────────┐
-              │                       │
-        Network Security         Web Security
-              │                       │
-              └───────────┬───────────┘
-                          │
-                    Ethical Hacking
-                          │
-              ┌───────────┴───────────┐
-              │                       │
-           Pentest                  Blue Team
-              │                       │
-              └───────────┬───────────┘
-                          │
-                    SOC / SIEM
-                          │
-                    Cloud Security
-                          │
-                 Digital Forensics
-CyberLab/
-│
-├── Linux/
-├── Git/
-├── Redes/
-├── Python/
-├── Cybersecurity/
-├── Labs/
-└── Projetos/
-ADS
- │
- ├── Programação
- ├── Banco de Dados
- ├── Redes
- ├── Sistemas Operacionais
- ├── Engenharia de Software
- ├── Computação em Nuvem
- └── Segurança da Informação
-          │
-          ▼
-     CYBERSECURITY
-APRENDER
-   ↓
-PRATICAR
-   ↓
-CRIAR LABORATÓRIOS
-   ↓
-DESENVOLVER PROJETOS
-   ↓
-CONSTRUIR EXPERIÊNCIA
-   ↓
-ESPECIALIZAÇÃO EM CYBERSECURITY
-
-Linux        ██████████ 100%
-Git/GitHub   ██████████ 100%
-Redes        ███░░░░░░░  30%
-Python       ██░░░░░░░░  20%
-Cybersecurity ██░░░░░░░░ 20%
+Importante: no GitHub, esse código deve ser colocado no README.md do seu perfil. Se o seu usuário for exatamente arthurcosta, o repositório especial do perfil também deve se chamar arthurcosta.
