@@ -1,7 +1,51 @@
 # 👨🏻‍💻 Arthur Costa
-**`Estudante de Análise e Desenvolvimento de Sistemas | Foco em Cybersecurity`**
-Sou estudante de Análise e Desenvolvimento de Sistemas na Estácio e estou construindo minha base em tecnologia através de estudos práticos, projetos e laboratórios. Meu objetivo é me especializar em Cybersecurity, desenvolvendo conhecimentos sólidos em Linux, redes, programação, Git, segurança da informação, Pentest e segurança web. 🚀
-### 🎯 Objetivo
+
+**`Estudante de Análise e Desenvolvimento de Sistemas | Cybersecurity`**
+
+Olá! Me chamo Arthur Costa e atualmente estou cursando Análise e Desenvolvimento de Sistemas.
+
+Minha área de interesse e objetivo profissional é **Cybersecurity**. Estou construindo minha formação de maneira prática, estudando desde os fundamentos da computação e programação até redes, sistemas operacionais, segurança da informação e segurança cibernética.
+
+Este GitHub será meu laboratório de aprendizado e meu portfólio, onde vou documentar minha evolução, projetos, exercícios, laboratórios e conhecimentos adquiridos durante minha formação.
+
+Meu objetivo é construir uma base sólida em tecnologia e, ao longo da minha jornada, me especializar profissionalmente em **Cybersecurity**.
+
+---
+
+## 🎓 Formação
+
+### Análise e Desenvolvimento de Sistemas — Estácio
+
+**Duração:** 2,5 anos  
+**Foco de carreira:** Cybersecurity
+
+A graduação fornece a base em desenvolvimento de sistemas, programação, banco de dados, redes, sistemas operacionais, engenharia de software, computação em nuvem e segurança da informação.
+
+### 📚 Disciplinas da formação
+
+- 🖥️ Arquitetura de Computadores
+- 🌐 Fundamentos de Redes de Computadores
+- 💻 Introdução à Programação
+- 🔐 Introdução à Segurança da Informação
+- 🧠 Pensamento Computacional
+- 🗄️ Banco de Dados
+- ☁️ Computação em Nuvem
+- 🌐 Desenvolvimento Web
+- 🧮 Matemática e Lógica
+- 🐍 Paradigmas de Linguagens de Programação em Python
+- 🐍 Desenvolvimento Rápido de Aplicações em Python
+- 🏗️ Engenharia de Software
+- 📊 Estrutura de Dados
+- 🖥️ Sistemas Operacionais
+- ☁️ Aplicações de Cloud, IoT e Indústria 4.0
+- 💻 Desenvolvimento de Software
+- 📐 Modelagem de Sistemas em UML
+- ⚙️ Métodos Ágeis com Scrum
+- ☕ Programação Orientada a Objetos
+- 📱 Programação para Dispositivos Móveis
+- 📊 Tópicos de Big Data em Python
+- 🔐 Segurança Cibernética
+
 <p align="left">
   <a href="https://github.com/arthurcosta">
     <img src="https://img.shields.io/github/followers/arthurcosta?style=for-the-badge&logo=github&label=Seguidores" />
@@ -15,44 +59,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na Estácio e estou cons
   <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" title="GitHub"/>
   <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python"/>
 </p>
-<img
-    align="left"
-    alt="Linux"
-    title="Linux"
-    width="40px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
-/>
 
-<img
-    align="left"
-    alt="Git"
-    title="Git"
-    width="40px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
-/>
-
-<img
-    align="left"
-    alt="GitHub"
-    title="GitHub"
-    width="40px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
-/>
-
-<img
-    align="left"
-    alt="Python"
-    title="Python"
-    width="40px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
-/>
-
-<br/>
-<br/
 ```text
                     CYBERSECURITY
                           │
